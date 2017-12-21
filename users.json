@@ -1,0 +1,1375 @@
+[
+    {
+        "id": 6,
+        "username": "susany",
+        "first_name": "Susan",
+        "last_name": "Yuknalis",
+        "school": "Central Jersey College Prep",
+        "subjects": [
+            "Science"
+        ],
+        "interests": [
+            "hackathons",
+            "makerspaces"
+        ],
+        "bio": "Middle School Science Teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 1,
+        "username": "admin",
+        "first_name": "Test",
+        "last_name": "User",
+        "school": null,
+        "subjects": [
+            "math",
+            "cs"
+        ],
+        "interests": null,
+        "bio": null,
+        "twitter_username": null,
+        "createdAt": "2017-10-04T00:46:45.867Z",
+        "updatedAt": "2017-10-04T00:46:45.867Z"
+    },
+    {
+        "id": 7,
+        "username": "kellii",
+        "first_name": "Kelli",
+        "last_name": "Iannacone",
+        "school": "Timberlane Middle School",
+        "subjects": [
+            "Pre-Engineering"
+        ],
+        "interests": [
+            "hackathons"
+        ],
+        "bio": "Pre-Engineering Teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 8,
+        "username": "kathyn",
+        "first_name": "Kathy",
+        "last_name": "Neggia",
+        "school": "Pennington",
+        "subjects": [
+            "Science Technology Engineering",
+            "Math"
+        ],
+        "interests": [
+            "gamejams/hackathons",
+            "makerspaces",
+            "iSTEM"
+        ],
+        "bio": "STEM Teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 9,
+        "username": "robynl",
+        "first_name": "Robyn",
+        "last_name": "LaTorre",
+        "school": "Pleasantville High School",
+        "subjects": [
+            "Physics",
+            "Math"
+        ],
+        "interests": [
+            "Makerspaces",
+            "hackathons",
+            "STEM pathways in high school - Comp Sci",
+            "Architecture",
+            "Engineering"
+        ],
+        "bio": "Freshman Academy Lead Teacher, Physics & Math educator -- Classroom teacher but also develop transition program for incoming freshmen",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 10,
+        "username": "margareti",
+        "first_name": "Margaret",
+        "last_name": "Incantalupo",
+        "school": "Sparta Township Public Schools/Sussex/Sparta High School",
+        "subjects": [
+            "Math",
+            "Computer Science"
+        ],
+        "interests": [
+            "Java",
+            "Python",
+            "Robotics",
+            "Arduino"
+        ],
+        "bio": "Teacher of Mathematics/Computer Science",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 11,
+        "username": "dant",
+        "first_name": "Dan",
+        "last_name": "Twisler",
+        "school": "Watchung Hills Regional High School",
+        "subjects": [
+            "Math",
+            "Business"
+        ],
+        "interests": [
+            "Integration of coding into math classes"
+        ],
+        "bio": "Supervisor of Math & Business",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 12,
+        "username": "andrewc",
+        "first_name": "Andrew",
+        "last_name": "Chung",
+        "school": "Bridgeton",
+        "subjects": [
+            "Math"
+        ],
+        "interests": [
+            "Engineering Design",
+            "Development",
+            "electrical engineer",
+            "computer software"
+        ],
+        "bio": "Math teacher. I teach math in 9-12 as well as a PLTW course called Engineering Design and Development.",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 13,
+        "username": "daniell",
+        "first_name": "Daniel",
+        "last_name": "LaGrone",
+        "school": "Hawthorne High School",
+        "subjects": [
+            "World Language",
+            "Art",
+            "English"
+        ],
+        "interests": [
+            "STEM Labs",
+            "activities",
+            "Educational technology advancements"
+        ],
+        "bio": "Principal, Hawthorne High School, Supervisor of World Language, Art and English. Responsible for Master Schedule, I&RS, 504 plans, Educere",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 14,
+        "username": "christinak",
+        "first_name": "Christina",
+        "last_name": "King",
+        "school": "Bridgewater-Raritan Regional School District",
+        "subjects": [
+            "Computer Science",
+            "Technology"
+        ],
+        "interests": [
+            "computer programming",
+            "robotics"
+        ],
+        "bio": "Technology Teacher - Teach computers to 5th and 6th graders.",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 15,
+        "username": "mary ellenp",
+        "first_name": "Mary Ellen",
+        "last_name": "Phelan",
+        "school": "Watchung Hills Regional High School",
+        "subjects": [
+            "Curriculum",
+            "Instruction"
+        ],
+        "interests": [
+            "Observation",
+            "curiosity",
+            "critical",
+            "creative problem solving"
+        ],
+        "bio": "Director of Curriculum and Instruction",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 16,
+        "username": "drewz",
+        "first_name": "Drew",
+        "last_name": "Ziobro",
+        "school": "Berkeley Heights School District",
+        "subjects": [
+            "Math",
+            "Practical Arts"
+        ],
+        "interests": [
+            "Statistics",
+            "Large Data",
+            "3D Modeling",
+            "Design",
+            "IOT"
+        ],
+        "bio": "Supervisor of Mathematics and Practical Arts",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 17,
+        "username": "athenak",
+        "first_name": "Athena",
+        "last_name": "Kornemann",
+        "school": "Ridgewood High School",
+        "subjects": [
+            "Art",
+            "Design",
+            "Makerspaces"
+        ],
+        "interests": [
+            "3D Printing",
+            "laser cutting",
+            "wearables",
+            "robotics"
+        ],
+        "bio": "Art and Design high school teacher, Makerspace Coordinator",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 18,
+        "username": "davidd",
+        "first_name": "David",
+        "last_name": "Doyle",
+        "school": "Delsea Regional High School",
+        "subjects": [
+            "Science Technology Engineering",
+            "Math"
+        ],
+        "interests": [
+            "Arduino Uno",
+            "Aviation",
+            "Patent Law"
+        ],
+        "bio": "i-STEM Teacher, Delsea Regional High School",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 19,
+        "username": "mike",
+        "first_name": "mike",
+        "last_name": null,
+        "school": "io'h",
+        "subjects": [],
+        "interests": [
+            "pk"
+        ],
+        "bio": "head",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 20,
+        "username": "susanh",
+        "first_name": "Susan",
+        "last_name": "Hammerstone",
+        "school": "Voorhees High School",
+        "subjects": [
+            "Science Technology Engineering",
+            "Math",
+            "Principal"
+        ],
+        "interests": [
+            "Creating a makerspace for high school students"
+        ],
+        "bio": "Assistant Principal, Supervisor of STEM",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 21,
+        "username": "thelmar",
+        "first_name": "Thelma",
+        "last_name": "Ramsey",
+        "school": "East Orange/Essex",
+        "subjects": [
+            "Prinicipal"
+        ],
+        "interests": [
+            "Hardware",
+            "curriculum",
+            "software"
+        ],
+        "bio": "Principal",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 22,
+        "username": "matthewh",
+        "first_name": "Matthew",
+        "last_name": "Horner",
+        "school": "Randolph Township Schools",
+        "subjects": [
+            "Computer Science",
+            "Mathematics"
+        ],
+        "interests": [
+            "Programming in general",
+            "particularly in Python as I'll teach that next year."
+        ],
+        "bio": "Computer Science and Mathematics Teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 23,
+        "username": "jenniferl",
+        "first_name": "Jennifer",
+        "last_name": "Lemke",
+        "school": "Roselle Park High School",
+        "subjects": [
+            "Media",
+            "Library"
+        ],
+        "interests": [
+            "Coding",
+            "techy makerspace projects"
+        ],
+        "bio": "School Library Media Specialist, run the library and makerspace and teach students about research, source evaluation, and technology",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 24,
+        "username": "stefanyg",
+        "first_name": "Stefany",
+        "last_name": "Gurgel",
+        "school": "Monmouth County Vocational School District",
+        "subjects": [],
+        "interests": [
+            "Additive Manufacturing",
+            "3-D printing",
+            "Auto CAD",
+            "AutoDesk Inventor",
+            "Programmable Logic Controller",
+            "Mechanisms",
+            "AC/DC Circuits",
+            "Hydraulics"
+        ],
+        "bio": "Teacher at Monmouth County Vocational School District.",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 25,
+        "username": "aliciam",
+        "first_name": "Alicia",
+        "last_name": "Martinez",
+        "school": "St. Michael's High School",
+        "subjects": [],
+        "interests": [
+            "ALL"
+        ],
+        "bio": "Instructor",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 26,
+        "username": "naoual",
+        "first_name": "naoual",
+        "last_name": null,
+        "school": "AWDFAF",
+        "subjects": [],
+        "interests": [
+            "AS"
+        ],
+        "bio": "teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 27,
+        "username": "suthidac",
+        "first_name": "Suthida",
+        "last_name": "Chamrat",
+        "school": "Chiang Mai University",
+        "subjects": [],
+        "interests": [
+            "Maker education"
+        ],
+        "bio": "University instructor",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 28,
+        "username": "jackiet",
+        "first_name": "Jackie",
+        "last_name": "Treadwell",
+        "school": "Middlesex County Vocational and Technical Schools",
+        "subjects": [
+            "Technology",
+            "Library"
+        ],
+        "interests": [
+            "Maker Innovations",
+            "Design Thinking"
+        ],
+        "bio": "School Library Media Specialist/ Technology Integration Specialist",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 29,
+        "username": "mikee",
+        "first_name": "Mike",
+        "last_name": "Epps",
+        "school": "Manalapan-Englishtown Middle School",
+        "subjects": [
+            "Science Technology Engineering",
+            "Robotics"
+        ],
+        "interests": [
+            "EV3",
+            "basic coding"
+        ],
+        "bio": "7th grade STEMbotics",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 30,
+        "username": "kathys",
+        "first_name": "kathy",
+        "last_name": "seetoo",
+        "school": "Manalapan-Englishtown Middle School",
+        "subjects": [
+            "Science Technology Engineering",
+            "Robotics"
+        ],
+        "interests": [
+            "Keeping up with the technology"
+        ],
+        "bio": "STEMbotics 8 teacher_36-day robotics cycle class using EV3 Mindstorms",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 31,
+        "username": "sheilao",
+        "first_name": "Sheila",
+        "last_name": "O'Hare Barrows",
+        "school": "Carteret Schools District",
+        "subjects": [
+            "Science"
+        ],
+        "interests": [
+            "Developing a growth",
+            "innovative mindset for our students."
+        ],
+        "bio": "7th Grade Science Teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 32,
+        "username": "john",
+        "first_name": "John",
+        "last_name": null,
+        "school": "Ridgewood",
+        "subjects": [
+            "Technology Engineering"
+        ],
+        "interests": [
+            "Materials"
+        ],
+        "bio": "Teacher Engineering Technology",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 33,
+        "username": "laurak",
+        "first_name": "Laura",
+        "last_name": "Kufta",
+        "school": "MCVTS in East Brunswick",
+        "subjects": [
+            "Chemistry"
+        ],
+        "interests": [
+            "incorportating coding",
+            "technology into the classroom. Anything different interests me"
+        ],
+        "bio": "Teacher of Chemistry",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 34,
+        "username": "brianb",
+        "first_name": "Brian",
+        "last_name": "Bowles",
+        "school": "Northfield Community Middle School",
+        "subjects": [
+            "Science Technology Engineering",
+            "Math",
+            "Media"
+        ],
+        "interests": [
+            "Coding",
+            "Little bits & circuits",
+            "Ethical Hacking",
+            "Making physics fun"
+        ],
+        "bio": "Technology Teacher- STEM, Coding, Math and Media",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 35,
+        "username": "ginah",
+        "first_name": "Gina",
+        "last_name": "Heineman",
+        "school": "Dover Public Schools",
+        "subjects": [
+            "Math",
+            "Science"
+        ],
+        "interests": [
+            "robotics",
+            "coding"
+        ],
+        "bio": "Supervisor of Math and Science",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 36,
+        "username": "michaels",
+        "first_name": "Michael",
+        "last_name": "Snook",
+        "school": "East Brunswick High School",
+        "subjects": [
+            "Technology",
+            "Engineering"
+        ],
+        "interests": [
+            "Incorporating technology projects into core subjects."
+        ],
+        "bio": "Technology Educator - public high school engineering/technology education & private robotics classes",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 37,
+        "username": "sarahd",
+        "first_name": "Sarah",
+        "last_name": "Dunne",
+        "school": "Brick Township Public School District",
+        "subjects": [
+            "Engineering",
+            "Math"
+        ],
+        "interests": [
+            "Topics of interest: Everything! Currently",
+            "my program utilizes the EDP throughout a variety of projects. In my 8th grade half year course",
+            "the students select projects to work on based on their interests",
+            "the resources we have available. I would love to learn more about 3D printing",
+            "coding",
+            "hackathons",
+            "project based learning for all levels of learners",
+            "Google Apps in the classroom",
+            "ways to fund STEM resources in my classroom."
+        ],
+        "bio": "STEM Educator - I educate middle school students on the Engineering Design process through various projects in a maker lab environment. We do everything from recycled items projects, to basic coding and 3D printing.",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 38,
+        "username": "ianz",
+        "first_name": "Ian",
+        "last_name": "Zeh",
+        "school": "Woodrow Wilson Middle School",
+        "subjects": [
+            "Technology",
+            "STEM"
+        ],
+        "interests": [
+            "Rollercoasters",
+            "Bridges"
+        ],
+        "bio": "Technology Teacher, A stem based class that follows a problem based approach",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 39,
+        "username": "fredo",
+        "first_name": "Fred",
+        "last_name": "Orcun",
+        "school": "Bergen",
+        "subjects": [
+            "Science",
+            "Technology"
+        ],
+        "interests": [
+            "Engineering",
+            "Design Practices",
+            "STEM courses"
+        ],
+        "bio": "Science and Technology Program Director",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 40,
+        "username": "nihatg",
+        "first_name": "Nihat",
+        "last_name": "Guvercin",
+        "school": "Bergen",
+        "subjects": [],
+        "interests": [
+            "Engineering",
+            "Design practices",
+            "STEM courses"
+        ],
+        "bio": "CEO",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 41,
+        "username": "yasind",
+        "first_name": "Yasin",
+        "last_name": "Demir",
+        "school": "Bergen",
+        "subjects": [
+            "Innovation",
+            "Design"
+        ],
+        "interests": [
+            "Engineering",
+            "Design practices",
+            "STEM courses"
+        ],
+        "bio": "Chief Innovation Officer",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 42,
+        "username": "melissam",
+        "first_name": "Melissa",
+        "last_name": "Morris Inoa",
+        "school": "New Brunswick Public Schools",
+        "subjects": [
+            "Technology",
+            "Media"
+        ],
+        "interests": [
+            "Design thinking across the content areas; makerspaces; social emotional learning; flexible learning environments; personalized student learning; Future Ready Schools"
+        ],
+        "bio": "Supervisor of Instructional Technology",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 43,
+        "username": "louisd",
+        "first_name": "Louis",
+        "last_name": "De Angelo",
+        "school": "Westfield High School",
+        "subjects": [
+            "Hackathons",
+            "Mathematics"
+        ],
+        "interests": [
+            "Hackathons / the 'human aspect' of education."
+        ],
+        "bio": "High school mathematics teacher *and* adviser for our school's Hackathon club.",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 44,
+        "username": "kylab",
+        "first_name": "Kyla",
+        "last_name": "Brown",
+        "school": "Success Academy Charter Schools",
+        "subjects": [
+            "Computer Science",
+            "Library"
+        ],
+        "interests": [
+            "Web",
+            "App Development",
+            "Python Programming",
+            "JAVA Programming",
+            "Algorithm Design",
+            "Computational Thinking"
+        ],
+        "bio": "Computer Science Teacher, Success Academy High School of the Liberal Arts",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 45,
+        "username": "emmar",
+        "first_name": "Emma",
+        "last_name": "Ross",
+        "school": "Canterbury Primary School",
+        "subjects": [],
+        "interests": [
+            "Makerspace",
+            "Technology",
+            "Constructionism",
+            "Project-based learning",
+            "Critical",
+            "Creative Thinking"
+        ],
+        "bio": "Primary (Elementary) School Classroom Teacher in Australia",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 46,
+        "username": "tracyb",
+        "first_name": "Tracy",
+        "last_name": "Brown",
+        "school": "New Brunswick High School",
+        "subjects": [
+            "Media"
+        ],
+        "interests": [
+            "Makerspace",
+            "project based learning",
+            "STEM challenges."
+        ],
+        "bio": "Media Specialist",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 47,
+        "username": "timc",
+        "first_name": "Tim",
+        "last_name": "Corica",
+        "school": "Mercer. Peddie School",
+        "subjects": [
+            "Science Technology Engineering",
+            "Math"
+        ],
+        "interests": [
+            "Design",
+            "empathy",
+            "real-world impact"
+        ],
+        "bio": "STM Coordinator at independent boarding high school",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 48,
+        "username": "chrish",
+        "first_name": "Chris",
+        "last_name": "Harris",
+        "school": "Pennsauken Public Schools",
+        "subjects": [
+            "Technology"
+        ],
+        "interests": [
+            "Coding",
+            "robotics",
+            "use of tech in the classroom"
+        ],
+        "bio": "Director of Technology",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 49,
+        "username": "jenniferk",
+        "first_name": "Jennifer",
+        "last_name": "Kressler-Duda",
+        "school": "Teacher at Mercer Elementary School",
+        "subjects": [
+            "Technology"
+        ],
+        "interests": [
+            "Coding",
+            "robotics"
+        ],
+        "bio": "Special Education Teacher, adapting tech tools for special needsÌ¢ï¿½ï¿½Â‰ï¿½ self contained classroom",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 50,
+        "username": "jamess",
+        "first_name": "James",
+        "last_name": "Santiago",
+        "school": "Dunellen HS",
+        "subjects": [],
+        "interests": [
+            "Robotics",
+            "Machine learning"
+        ],
+        "bio": "Teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 51,
+        "username": "elaine",
+        "first_name": "elaine",
+        "last_name": null,
+        "school": "DDLC",
+        "subjects": [
+            "Gifted",
+            "Talented"
+        ],
+        "interests": [
+            "coding apps for education"
+        ],
+        "bio": "gifted and talented teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 52,
+        "username": "pavels",
+        "first_name": "Pavel",
+        "last_name": "Shibayev",
+        "school": "Rutgers University",
+        "subjects": [],
+        "interests": [
+            "Physics learning",
+            "motivational aspects of acquiring vs. demonstrating knowledge",
+            "competitive vs. research-based environment -- these are all topics",
+            "questions we plan to tackle at Physics Unlimited through our events as well."
+        ],
+        "bio": "Research Assistant (thin film growth, physics lab) and nonprofit incorporator (Physics Unlimited)",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 53,
+        "username": "leslie-annm",
+        "first_name": "Leslie-Ann",
+        "last_name": "Moore",
+        "school": "NYC district 2",
+        "subjects": [
+            "Science"
+        ],
+        "interests": [
+            "All"
+        ],
+        "bio": "Science teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 54,
+        "username": "robing",
+        "first_name": "Robin",
+        "last_name": "Glassberg",
+        "school": "N/a",
+        "subjects": [
+            "Technology"
+        ],
+        "interests": [
+            "How all students can access technology in underrepresented communities"
+        ],
+        "bio": "Tech Education Consultant",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 55,
+        "username": "kyleg",
+        "first_name": "Kyle",
+        "last_name": "Gavin",
+        "school": "Haledon Public School",
+        "subjects": [
+            "Science Technology Engineering",
+            "Math"
+        ],
+        "interests": [
+            "Electronics",
+            "3D printing",
+            "Assessment"
+        ],
+        "bio": "Middle School STEM teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 56,
+        "username": "yvonned",
+        "first_name": "Yvonne",
+        "last_name": "De La",
+        "school": "Manhattan",
+        "subjects": [
+            "Science Technology Engineering",
+            "Math"
+        ],
+        "interests": [
+            "CS education"
+        ],
+        "bio": "Director, BridgeUP: STEM at AMNH",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 57,
+        "username": "jimk",
+        "first_name": "Jim",
+        "last_name": "Kennedy",
+        "school": "Pascack Valley Regional High School",
+        "subjects": [
+            "Science Technology Engineering",
+            "Math"
+        ],
+        "interests": [
+            "Artificial Intelligence",
+            "Arduino/Raspberry Pi programming"
+        ],
+        "bio": "Public School Teacher of STEM classes",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 58,
+        "username": "ceciliaj",
+        "first_name": "Cecilia",
+        "last_name": "Jackson",
+        "school": "N/a",
+        "subjects": [
+            "Leadership"
+        ],
+        "interests": [
+            "Social Skills",
+            "Depth in Subject Matter"
+        ],
+        "bio": "Founder, Youth Leadership Development Program",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 59,
+        "username": "bree",
+        "first_name": "Bree",
+        "last_name": null,
+        "school": "N/A",
+        "subjects": [],
+        "interests": [
+            "Project based coding"
+        ],
+        "bio": "President",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 60,
+        "username": "andrews",
+        "first_name": "Andrew",
+        "last_name": "Scanlon",
+        "school": "East Brunswick Public Schools",
+        "subjects": [
+            "Engineering Computer Science Consumer Science",
+            "Business"
+        ],
+        "interests": [
+            "Elementary projects/labs",
+            "developing a maker space in elementary schools."
+        ],
+        "bio": "Supervisor of Engineering, Computer Science, Business & Consumer Science",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 61,
+        "username": "jasonb",
+        "first_name": "jason",
+        "last_name": "bing",
+        "school": "Jersey City",
+        "subjects": [
+            "Academics"
+        ],
+        "interests": [
+            "Hackathon"
+        ],
+        "bio": "Chief Academic Officer",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 62,
+        "username": "adrienner",
+        "first_name": "Adrienne",
+        "last_name": "R. Hill",
+        "school": "Trenton Public Schools",
+        "subjects": [
+            "Principal",
+            "Innovation"
+        ],
+        "interests": [
+            "Makerspace",
+            "STEAM (Design thinking",
+            "Arts Integration",
+            "Robotics))"
+        ],
+        "bio": "Middle School Principal--My main functions are school innovation, inspiration, management and turnaround.",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 63,
+        "username": "gracielae",
+        "first_name": "graciela",
+        "last_name": "elia",
+        "school": "Princeton Public Schools",
+        "subjects": [
+            "Math Computer Science",
+            "Technology"
+        ],
+        "interests": [
+            "Hackathons",
+            "CTF",
+            "Robotics",
+            "UAV"
+        ],
+        "bio": "Math and Computer Science Teacher and Club advisor for many tech clubs.",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 64,
+        "username": "sharia",
+        "first_name": "Shari",
+        "last_name": "Allen",
+        "school": "Williams Middle School",
+        "subjects": [
+            "Culture",
+            "Climate"
+        ],
+        "interests": [
+            "Hackathons",
+            "cross curricular",
+            "makerspaces"
+        ],
+        "bio": " Hedgepeth",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 65,
+        "username": "emmanuelf",
+        "first_name": "Emmanuel",
+        "last_name": "Fadahunsi",
+        "school": "Abraham Clark High School",
+        "subjects": [
+            "Science Technology Engineering",
+            "Math"
+        ],
+        "interests": [
+            "Robotics",
+            "Coding",
+            "engineering/Tech design"
+        ],
+        "bio": "Math and STEM Teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 66,
+        "username": "wikensonj",
+        "first_name": "Wikenson",
+        "last_name": "Jean-Pierre",
+        "school": "Abraham Clark High school",
+        "subjects": [
+            "Math Algebra",
+            "Geometry"
+        ],
+        "interests": [
+            "N/A"
+        ],
+        "bio": "High School Math teacher, a teacher of Algebra Geometry, and calculus",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 67,
+        "username": "tiffanyl",
+        "first_name": "Tiffany",
+        "last_name": "Lucey",
+        "school": "Toms River Regional Schools",
+        "subjects": [
+            "Technology"
+        ],
+        "interests": [
+            "Arts integration",
+            "successful models implemented with fidelity"
+        ],
+        "bio": "Supervisor of Educational Technology",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 68,
+        "username": "justins",
+        "first_name": "Justin",
+        "last_name": "Siering",
+        "school": "Jackson Liberty High School",
+        "subjects": [
+            "Physics",
+            "Chemistry"
+        ],
+        "interests": [
+            "I'd like to learn to code (at least a little bit)",
+            "it's been a long time since compsci in college (",
+            "we learned FORTRAN)"
+        ],
+        "bio": "Teacher of Physics and Chemistry at Jackson Liberty High School",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 69,
+        "username": "sum",
+        "first_name": "Su",
+        "last_name": "Min Kim",
+        "school": "Bergen County Academies",
+        "subjects": [
+            "Hackathons"
+        ],
+        "interests": [
+            "Hackathons",
+            "problem based learning",
+            "Women in STEM"
+        ],
+        "bio": "Director of Local Hack Day at Bergen County Academies, Director of hackBCA",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 70,
+        "username": "joep",
+        "first_name": "Joe",
+        "last_name": "Prather",
+        "school": "PRINCETON",
+        "subjects": [
+            "--"
+        ],
+        "interests": [
+            "All"
+        ],
+        "bio": "Trustee, PRINCETON Class of 1961 Foundation",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 71,
+        "username": "selamawit",
+        "first_name": "Selamawit",
+        "last_name": null,
+        "school": "New York University",
+        "subjects": [
+            "Entrepreneurship"
+        ],
+        "interests": [
+            "Computer Science",
+            "influence of technology on education"
+        ],
+        "bio": "Currently I work at the Entrepreneur Lab where I assist students and faculty using the 3D printer and laser cutter in addition to giving lab tours. I am also a research assistant in the Center for Soft Matter Research within the Physics Department at New York University.",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 72,
+        "username": "peterg",
+        "first_name": "Peter",
+        "last_name": "Geiselman",
+        "school": "Brookdale Community College",
+        "subjects": [
+            "Computer Science"
+        ],
+        "interests": [
+            "Application development"
+        ],
+        "bio": "Computer Science Instructor",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 73,
+        "username": "atiyahc",
+        "first_name": "Atiyah",
+        "last_name": "Conry",
+        "school": "Sayreville NJ",
+        "subjects": [
+            "Computer Science"
+        ],
+        "interests": [
+            "Diversity",
+            "gender",
+            "economic",
+            "racial"
+        ],
+        "bio": "Computer Science teacher, I teach the computer science courses offered at Sayreville High School",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 74,
+        "username": "willb",
+        "first_name": "Will",
+        "last_name": "Brownson",
+        "school": "Raritan High School",
+        "subjects": [
+            "Physics",
+            "Chemistry"
+        ],
+        "interests": [
+            "Project based learning"
+        ],
+        "bio": "Physics Teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 75,
+        "username": "jeanninel",
+        "first_name": "Jeannine",
+        "last_name": "Lanphear",
+        "school": "Linwood Middle School",
+        "subjects": [
+            "Math",
+            "Science"
+        ],
+        "interests": [
+            "Using STEM to increase equity",
+            "access for underserved populations"
+        ],
+        "bio": "Supervisor of Math and Science",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 76,
+        "username": "marks",
+        "first_name": "Mark",
+        "last_name": "Snow",
+        "school": "New Brunswick High School",
+        "subjects": [
+            "Computer Science"
+        ],
+        "interests": [
+            "Front-End Web",
+            "Data Science",
+            "Machine Learning",
+            "Neural Networks"
+        ],
+        "bio": "High School Computer Science Teacher",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    },
+    {
+        "id": 77,
+        "username": "ericd",
+        "first_name": "Eric",
+        "last_name": "D'Aleo",
+        "school": "n/a",
+        "subjects": [],
+        "interests": [
+            "Outer Space"
+        ],
+        "bio": "CEO of Enterstellar, an outer space education startup",
+        "twitter_username": "ignite_stem",
+        "createdAt": "2017-10-04T00:58:41.687Z",
+        "updatedAt": "2017-10-04T00:58:41.687Z"
+    }
+]
